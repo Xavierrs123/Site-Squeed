@@ -1,1 +1,1 @@
-# squeed
+# Squeed
